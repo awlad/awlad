@@ -46,7 +46,10 @@ Technologies I've been learning and using so far :
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
- or give some ♥ on [mail](mailto:awladliton@gmail.com) .
-
+## Links
+- [Linkedin](https://www.linkedin.com/in/litonawlad/)
+- [Mail](mailto:awladliton@gmail.com) 
+- [IKS ROR assessment](https://drive.google.com/file/d/1VZpiWvC9RsfZ7HD2tY31pHnQKZLFmEg9/view)
+- [Stackoverflow](https://stackoverflow.com/users/1300194/awlad-liton)
 
  
