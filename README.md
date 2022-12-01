@@ -6,7 +6,7 @@ of experience delivering tech solutions who works with dedication, is always foc
 minute details. With leadership capabilities and organisational skills, I always look forward to new challenges and
 experiences.
 
-### 🔭 Have a look at my [resume](https://drive.google.com/file/d/1p0_8uwJUJJU5aAU0grSR_e0kRmymmZ8e/view?usp=sharing).
+#### 🔭 Interested? Here is my [resume](https://drive.google.com/file/d/1p0_8uwJUJJU5aAU0grSR_e0kRmymmZ8e/view?usp=sharing).
 
 
 ## ⚡ Tech Stack
@@ -51,4 +51,6 @@ Technologies I've been learning and using so far :
 - [IKS ROR assessment](https://drive.google.com/file/d/1VZpiWvC9RsfZ7HD2tY31pHnQKZLFmEg9/view)
 - [Stackoverflow](https://stackoverflow.com/users/1300194/awlad-liton)
 
+## Github stats
+![Awlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=awlad&count_private=true&hide=stars,contribs&show_icons=true)
  
