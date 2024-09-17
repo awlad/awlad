@@ -8,6 +8,10 @@ experiences.
 
 #### 🔭 Interested? Here is my [resume](https://drive.google.com/file/d/1ypdaVPaMksSXO5kX0XRNMAApZ2jH5Dre/view?usp=sharing).
 
+## ⚡ Git Stats
+ ![Awlad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awlad&layout=compact)
+ ![Awlad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=awlad)
+
 
 ## ⚡ Tech Stack
 Technologies I've been learning and using so far :
