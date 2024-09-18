@@ -6,7 +6,7 @@ of experience delivering tech solutions who works with dedication, is always foc
 minute details. With leadership capabilities and organisational skills, I always look forward to new challenges and
 experiences.
 
-#### 🔭 Interested? Here is my [resume](https://drive.google.com/file/d/1ypdaVPaMksSXO5kX0XRNMAApZ2jH5Dre/view?usp=sharing).
+#### 🔭 Interested? Here is my [resume](https://drive.google.com/file/d/1IspB2FUqWozGoMucKjwhhv4TW45_hlwl/view?usp=sharing).
 
 ## ⚡ Git Stats
  ![Awlad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awlad&layout=compact)
