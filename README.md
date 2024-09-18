@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="25px"> Hi, I am Awlad 👨‍💻
 
-‘Perseverance’, ‘Adaptability’ and ‘Perfection’ – these words describe me. I am one hard-working individual with 10 years
+‘Perseverance’, ‘Adaptability’ and ‘Perfection’ – these words describe me. I am one hard-working individual with 12 years
 of experience delivering tech solutions who works with dedication, is always focused on the goal and very attentive to
 minute details. With leadership capabilities and organisational skills, I always look forward to new challenges and
 experiences.
