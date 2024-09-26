@@ -1,12 +1,17 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="25px"> Hi, I am Awlad 👨‍💻
+#  👋 Hi, I am Awlad 
 
-‘Perseverance’, ‘Adaptability’ and ‘Perfection’ – these words describe me. I am one hard-working individual with 12 years
-of experience delivering tech solutions who works with dedication, is always focused on the goal and very attentive to
-minute details. With leadership capabilities and organisational skills, I always look forward to new challenges and
-experiences.
+I'm a seasoned Full-Stack Developer with over 12 years of experience, specializing in Ruby on Rails, React, and building scalable web applications. I’m passionate about solving complex technical challenges and continuously learning new technologies. Whether it's crafting efficient APIs or designing intuitive user interfaces, I enjoy turning ideas into reliable, high-quality solutions.
+
+📚 Currently exploring: LeetCode problem-solving
+
+🌍 Open to remote opportunities and relocation
+
+🚀 Let's collaborate on exciting projects!
 
 #### 🔭 Interested? Here is my [resume](https://drive.google.com/file/d/1v8rp4_VVAoyC0zQoB0j85UiqWdDTYPvv/view?usp=sharing).
+
+
 
 ## ⚡ Git Stats
  ![Awlad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awlad&layout=compact)
