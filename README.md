@@ -9,7 +9,7 @@ I'm a seasoned Full-Stack Developer with over 12 years of experience, specializi
 
 🚀 Let's collaborate on exciting projects!
 
-#### 🔭 Interested? Here is my [resume](https://drive.google.com/file/d/1v8rp4_VVAoyC0zQoB0j85UiqWdDTYPvv/view?usp=sharing).
+#### 🔭 Interested? Here is my [profile](https://www.awlad.dev/).
 
 
 
